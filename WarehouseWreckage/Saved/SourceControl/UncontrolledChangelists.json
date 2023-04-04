@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Brossion/Documents/Unreal Projects/WarehouseWreckage/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Brossion/Documents/Unreal Projects/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Users/Brossion/Documents/Unreal Projects/WarehouseWreckage/Content/StarterContent/Maps/BP_Projectile.uasset",
+				"C:/Users/Brossion/Documents/Unreal Projects/WarehouseWreckage/Content/BP_Projectile.uasset",
+				"C:/Users/Brossion/Documents/Unreal Projects/WarehouseWreckage/Content/Main.umap",
+				"C:/Users/Brossion/Documents/Unreal Projects/WarehouseWreckage/Content/Main_BuiltData.uasset",
+				"C:/Users/Brossion/Documents/Unreal Projects/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"C:/Users/Brossion/Documents/Unreal Projects/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel02.uasset",
+				"C:/Users/Brossion/Documents/Unreal Projects/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel03.uasset",
+				"C:/Users/Brossion/Documents/Unreal Projects/WarehouseWreckage/Content/BP_Barrel.uasset",
+				"C:/Users/Brossion/Documents/Unreal Projects/WarehouseWreckage/Content/BP_Barrel_Type02.uasset",
+				"C:/Users/Brossion/Documents/Unreal Projects/WarehouseWreckage/Content/BP_Barrel_Type03.uasset",
+				"C:/Users/Brossion/Documents/Unreal Projects/WarehouseWreckage/Content/warehouseWreckage.umap"
+			]
+		}
+	]
+}
